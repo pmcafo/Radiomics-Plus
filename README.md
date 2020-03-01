@@ -1,1 +1,1 @@
-# Radiomics Plus\nThis collection of scripts is designed to perform Radi
+# Radiomics Plus\nThis collection of scripts is designed to perform Radiomic
