@@ -1,1 +1,1 @@
-# Radiomics Plus\nThis collection of scripts is designed to perform Radiomics on three-dimensional medical images (like P
+# Radiomics Plus\nThis collection of scripts is designed to perform Radiomics on three-dimensional medical images (like PET
